@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "validation": "structural_headers_only_not_full_decode",
+  "updated_at": "2026-09-30T01:33:49Z",
+  "photos": [
+    {
+      "id": "914abcfe64a3e96c899f9d7da218db5257263d7212aacdba981a2a32937085e6",
+      "path": "assets/wangcai/photos/20260827-111619.jpg",
+      "sha256": "914abcfe64a3e96c899f9d7da218db5257263d7212aacdba981a2a32937085e6",
+      "width": 1080,
+      "height": 1440,
+      "tags": [
+        "旺财",
+        "黑白猫",
+        "白胸口",
+        "白爪",
+        "看镜头",
+        "木地板"
+      ],
+      "caption": "旺财趴在木地板上，抬头看向镜头，白胸口和白爪清晰可见。",
+      "taken_at": null,
+      "added_at": "2026-09-30T01:25:36Z"
+    },
+    {
+      "id": "15083f2d7453438dfd35854c58aa7255dd57ad37348cf971e169ab60bdff0995",
+      "path": "assets/wangcai/photos/20260827-111624.jpg",
+      "sha256": "15083f2d7453438dfd35854c58aa7255dd57ad37348cf971e169ab60bdff0995",
+      "width": 1080,
+      "height": 1440,
+      "tags": [
+        "旺财",
+        "黑白猫",
+        "翻肚皮",
+        "白肚皮",
+        "木地板"
+      ],
+      "caption": "旺财仰躺在木地板上，露出白肚皮，四肢放松伸展。",
+      "taken_at": null,
+      "added_at": "2026-09-30T01:25:36Z"
+    }
+  ]
+}

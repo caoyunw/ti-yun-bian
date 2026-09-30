@@ -1,0 +1,6 @@
+interface:
+  display_name: "提韵变"
+  short_description: "在明确口令后，以操韵雯的判断和语气持续回应工作与日常聊天"
+  default_prompt: "Use $ti-yun-bian; send 提韵变说话！ as a separate message to enter the persona."
+policy:
+  allow_implicit_invocation: true
